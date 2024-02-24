@@ -7,7 +7,10 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<HomePage />} />
-        <Route path="/archive" element={<ArchivePage />} />
+        <Route path="/introduction" element={<IntroPage />} />
+        <Route path="/news" element={<NewsPage />} />
+        <Route path="/goods" element={<GoodsPage />} />
+        <Route path="/history" element={<HistoryPage />} />
       </Routes>
     </BrowserRouter>
   );
