@@ -1,0 +1,9 @@
+#homepage {
+    height: 100vh; /* Use 100% of the viewport height */
+    width: 100%;   /* Use 100% of the available width */
+  }
+
+  body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
