@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/seikaisanrioproject/static/css/main.3fd2ddd3.css",
+    "main.js": "/seikaisanrioproject/static/js/main.ee2d6736.js",
+    "static/js/453.7e6119a1.chunk.js": "/seikaisanrioproject/static/js/453.7e6119a1.chunk.js",
+    "static/media/Cinnamoroll_Image.webp": "/seikaisanrioproject/static/media/Cinnamoroll_Image.e6469858056d55946b2b.webp",
+    "static/media/logo.svg": "/seikaisanrioproject/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/seikaisanrioproject/index.html",
+    "main.3fd2ddd3.css.map": "/seikaisanrioproject/static/css/main.3fd2ddd3.css.map",
+    "main.ee2d6736.js.map": "/seikaisanrioproject/static/js/main.ee2d6736.js.map",
+    "453.7e6119a1.chunk.js.map": "/seikaisanrioproject/static/js/453.7e6119a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fd2ddd3.css",
+    "static/js/main.ee2d6736.js"
+  ]
+}
